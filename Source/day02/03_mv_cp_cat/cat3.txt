@@ -1,0 +1,9 @@
+Hello
+My name
+ is
+ Takeshi
+apple
+
+banana
+
+lemon

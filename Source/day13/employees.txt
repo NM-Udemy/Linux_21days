@@ -1,0 +1,6 @@
+ayaka manager account 45000
+shinji clerk account 25000
+mika manager sales 50000
+atsushi manager account 47000
+takuro clerk sales 15000
+john clerk sales 23000
